@@ -1,0 +1,17 @@
+.aboutheader {
+  margin-top: 10%;
+  font-size: 5rem;
+  font-family: "Mountains of Christmas", cursive;
+  color: red;
+}
+
+.about {
+  font-family: "Karantina", cursive;
+  font-size: 2.5rem;
+  margin-top: 5%;
+}
+
+.emphasis {
+  font-style: italic;
+  margin-top: 10%;
+}
